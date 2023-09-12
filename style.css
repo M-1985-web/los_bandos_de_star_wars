@@ -10,7 +10,7 @@ p {
     color: rgb(77, 154, 221);
 }
 
-img {
+img { 
   width: 200px;
   height: 150px;
   object-fit: contain;
@@ -25,6 +25,7 @@ img {
   background-color: rgb(58, 110, 242);
   color: white;
 }
+
 
 
 
