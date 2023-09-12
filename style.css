@@ -1,0 +1,30 @@
+h1{
+      font-size: 36px;
+      color: black;
+      text-align: center;
+      background-color: rgb(240, 240, 232);
+}
+
+p {
+    font-size: 36px;
+    color: rgb(77, 154, 221);
+}
+
+img {
+  width: 200px;
+  height: 150px;
+  object-fit: contain;
+}
+
+.el-imperio {
+  background-color: black;
+  color: white;
+}
+
+.los-rebeldes {
+  background-color: rgb(58, 110, 242);
+  color: white;
+}
+
+
+
